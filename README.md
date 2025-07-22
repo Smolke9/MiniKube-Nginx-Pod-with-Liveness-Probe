@@ -119,8 +119,8 @@ kubectl delete pod nginx-liveness
 
 ## 📦 Author
 
-**Your Name**  
-[GitHub Profile](https://github.com/yourusername)
+**Suraj Molke**  
+[GitHub Profile](https://github.com/smolke9)
 
 ---
 
